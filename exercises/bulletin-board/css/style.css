@@ -1,0 +1,111 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.post-it-pink {
+    background-color: #f17c9d;
+    color: white;
+    display: inline-block;
+    width: 175px;
+    height: 150px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.post-it-yellow {
+    background-color: #dada61;
+    color: white;
+    display: inline-block;
+    width: 230px;
+    height: 175px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.post-it-blue {
+    background-color: #9093ec;
+    color: white;
+    display: inline-block;
+    width: 200px;
+    height: 175px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.post-it-orange {
+    background-color: #eaa53e;
+    color: white;
+    display: inline-block;
+    width: 250px;
+    height: 200px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.post-it-pink2 {
+    background-color: #ff8ad2;
+    color: white;
+    display: inline-block;
+    width: 250px;
+    height: 120px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+.post-it-green {
+    background-color: #73c35d;
+    color: white;
+    display: inline-block;
+    width: 250px;
+    height: 175px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.post-it-blue2 {
+    background-color: #49388a;
+    color: white;
+    display: inline-block;
+    width: 225px;
+    height: 125px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+}
+.post-it-purple2 {
+    background-color: #711869;
+    color: white;
+    display: inline-block;
+    width: 225px;
+    height: 125px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.post-it-green3 {
+    background-color: #187139;
+    color: white;
+    display: inline-block;
+    width: 225px;
+    height: 125px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.post-it-pink3 {
+    background-color: #c3599c;
+    color: white;
+    display: inline-block;
+    width: 225px;
+    height: 125px;
+    margin: 24px;
+    padding: 24px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
