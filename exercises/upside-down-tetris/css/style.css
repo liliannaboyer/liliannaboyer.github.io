@@ -1,0 +1,166 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Upside-down Tetris assignment.
+
+    Good luck, and have fun!
+*/
+.tetris-block {
+    padding: 20px;
+    border-width: 20px;
+    border-style: outset;
+    display: inline-block;
+    margin: 5px 5px;
+}
+
+.red {
+    background-color: red;
+    border-color: darkred;
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.blue {
+    background-color: rgb(135, 154, 239);
+    border-color: rgb(37, 50, 136);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.green {
+    background-color: rgb(154, 249, 153);
+    border-color: rgb(42, 124, 47);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.teal {
+    background-color: rgb(128, 224, 208);
+    border-color: rgb(21, 106, 97);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.pink {
+    background-color: rgb(253, 167, 236);
+    border-color: rgb(135, 44, 102);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.orange {
+    background-color: rgb(235, 173, 48);
+    border-color: rgb(209, 103, 33);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.darkblue {
+    background-color: rgb(40, 118, 207);
+    border-color: rgb(20, 34, 121);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.purple {
+    background-color: rgb(205, 144, 236);
+    border-color: rgb(125, 28, 190);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.brownred {
+    background-color: rgb(183, 96, 105);
+    border-color: rgb(205, 75, 90);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.indigo {
+    background-color: rgb(116, 57, 217);
+    border-color: rgb(50, 22, 100);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+.red {
+    background-color: red;
+    border-color: darkred;
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.blue {
+    background-color: rgb(135, 154, 239);
+    border-color: rgb(37, 50, 136);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.teal {
+    background-color: rgb(128, 224, 208);
+    border-color: rgb(21, 106, 97);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.pink {
+    background-color: rgb(253, 167, 236);
+    border-color: rgb(135, 44, 102);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.orange {
+    background-color: rgb(235, 173, 48);
+    border-color: rgb(209, 103, 33);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.darkblue {
+    background-color: rgb(40, 118, 207);
+    border-color: rgb(20, 34, 121);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.purple {
+    background-color: rgb(205, 144, 236);
+    border-color: rgb(125, 28, 190);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.brownred {
+    background-color: rgb(183, 96, 105);
+    border-color: rgb(205, 75, 90);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}
+
+.indigo {
+    background-color: rgb(116, 57, 217);
+    border-color: rgb(50, 22, 100);
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+}

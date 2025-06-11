@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+div {
+    border: 10px solid #5587b8;
+    border-bottom: 10px solid pink;
+    border-right: 10px solid pink;
+    margin: 24px;
+    padding: 50px;
+    background-color: lavenderblush;
+}
+p {
+    border: 20px solid slateblue;
+    margin: 60px;
+    padding: 24px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 30px; 
+
+}
