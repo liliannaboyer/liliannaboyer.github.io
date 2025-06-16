@@ -7,22 +7,23 @@
     Good luck, and have fun!
 */
 .absolute-image {
-    width: 75px;
+    width: 85px;
     display: inline-block;
     margin: 54px 36px;
-    border: 6px solid #000000;
+    border: 2px solid #000000;
     text-align: left;
     padding: 2px;
     background-color: black;
+    box-shadow: 2px 2px black;
 }
 .absolute-image2 {
     width: 75px;
     display: inline-block;
     margin: 24px;
-    border: 6px solid rgb(0, 0, 0);
     text-align: center;
     padding: 2px;
-    background-color: black;
+    background-color: rgb(171, 84, 98);
+    box-shadow: 2px 2px pink;
 }
 .absolute-image3 {
     width: 75px;
@@ -35,11 +36,12 @@
 }
 
 .TGIF-poster {
-    background-color: lavender;
-    width: 75px;
+    background-color: rgb(129, 39, 135);
+    width: 150px;
     padding: 25px;
+    display: inline;
     text-align: center;
-    display: block;
     border: 6px solid black;
     font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
 }
