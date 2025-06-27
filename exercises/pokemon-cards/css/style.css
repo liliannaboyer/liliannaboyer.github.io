@@ -1,0 +1,22 @@
+/*
+    Write your CSS for the assignment here.
+
+    You shouldn't need to modify the HTML;
+    however, you are allowed to. 
+    
+    Just be aware that you may break some
+    of the setup.css styling if you do so.
+*/
+
+
+#pokemon-card-1 {
+    width: 90vw;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.card-style-3 {
+    display: flex;
+    gap: 36px;
+}
+
