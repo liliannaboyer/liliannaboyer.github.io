@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    /* background: rgb(139, 183, 138);  */
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    justify-content: center;
+}
