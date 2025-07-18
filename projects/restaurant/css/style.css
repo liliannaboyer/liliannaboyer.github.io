@@ -28,6 +28,11 @@ body {
     padding: 10px;
 }
 
+#navbar #logo {
+    margin-right: auto;
+    justify-content: space-between;
+}
+
 #navbar .cta-button {
     background-color: white;
     color: green;
@@ -158,6 +163,5 @@ body {
 
 #footer img {
     width: 20px;
-    padding: 10px;
     align-items: center;
 }
