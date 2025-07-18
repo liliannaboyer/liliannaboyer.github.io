@@ -1,0 +1,43 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Generic License assignment.
+
+    Good luck, and have fun!
+*/
+
+#license {
+  background: linear-gradient(to left, #ffbe8c, #fbd793);
+  border-radius: 10px;
+  width: 500px;
+  height: 300px;
+  padding: 20px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+  color: #000000;
+}
+
+#license h1 {
+  font-size: 38px;
+  color: rgb(2, 2, 103);
+  margin-bottom: 0.2rem;
+}
+
+#license h4 {
+    background-color: navy;
+    color: white;
+    padding: 6px 10px;
+    margin-bottom: 10px;
+    width: fit-content;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#small-pic-container img {
+  width: 90px;
+  height: auto;
+  border: 2px solid #555;
+  background: white;
+  border-radius: 4px;
+}
+

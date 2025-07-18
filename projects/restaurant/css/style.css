@@ -5,13 +5,159 @@
 body {
     margin: 0px;
     font-family: sans-serif;
-    /* background: rgb(139, 183, 138);  */
+    background: linear-gradient(to right, #daf5ee, #e3eefb);
 }
 
-h1 {
-    text-align: center;
+#navbar {
+    background-color: #d5f7ee;
+    padding: 10px;
+    display: flex;
+    align-items: center;
 }
 
-img {
+#navbar a {
+    text-decoration: none;
+    color: rgb(10, 56, 20);
+    font-size: 18px;
+    padding: 12px;
+}
+
+#navbar img {
+    width: 250px;
+    margin: 14px;
+    padding: 10px;
+}
+
+#navbar .cta-button {
+    background-color: white;
+    color: green;
+    border-radius: 36px;
+    padding: 12px 24px;
+    font-size: 20px;
+    font-weight: bold;
+    min-width: 150px;
+}
+
+#hero {
+    background-image: url("../images/tai-bui-0RC5CDUfkhk-unsplash.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
     justify-content: center;
+    align-items: center;
+}
+
+#hero .hero-content {
+    text-align: center;
+    color: rgb(241, 245, 141);
+    padding-top: 100px;
+}
+
+#hero h2 {
+    font-size: 60px;
+    margin-bottom: 12px;
+    text-align: right;
+    font-weight: bold;
+}
+
+#hero h1 {
+    font-size: 30px;
+    margin: 0px;
+}
+
+#hero a {
+    font-size: 26px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    color: green;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 30px;
+    margin-top: 36px;
+    margin-right: 12px;
+    margin-left: 12px;
+    border-radius: 6px;
+}
+
+#hero-2 {
+    background-image: url("../images/Asset\ 2-100.jpg");
+    height: 100%;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero-2 .hero-content {
+    text-align: center;
+    color: rgb(241, 245, 141);
+    padding-top: 10px;
+}
+
+#hero-2 h1 {
+    font-size: 40px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+#hero-2 h2 {
+    font-size: 40px;
+    margin-bottom: 6px;
+    text-align: center;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+#hero-2 ul {
+    color: darkgreen;
+    font-size: 24px;
+}
+
+#hero-2 h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-size: 30px;
+}
+
+#hero-2 h3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#hero-2 img {
+    width: 600px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#footer {
+    background: #d5f7ee;
+    color: white;
+    padding: 30px;
+    width: 100%;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+#footer h1 {
+    text-decoration: none;
+    color: darkgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+#footer-navbar {
+    width: 800px;
+    margin: 0px auto;
+    display: flex;
+}
+
+#footer img {
+    width: 20px;
+    padding: 10px;
+    align-items: center;
 }
