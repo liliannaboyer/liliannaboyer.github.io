@@ -52,7 +52,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    opacity: 90%;
+    opacity: 0.9;
 }
 
 #hero1 .hero-content {
