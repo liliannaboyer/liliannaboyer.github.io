@@ -9,7 +9,7 @@ body {
 }
 
 #navbar {
-    background-color: #859ac2;
+    background-color: #8398c0;
     padding: 10px;
     display: flex;
     align-items: center;
@@ -17,9 +17,9 @@ body {
 
 #navbar a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(13, 4, 42);
     font-size: 18px;
-    padding: 1px;
+    padding: 10px;
     margin: 10px;
 }
 
@@ -34,14 +34,8 @@ body {
     justify-content: space-between;
 }
 
-#navbar .cta-button {
-    background-color: white;
-    color: rgb(0, 0, 0);
-    border-radius: 36px;
-    padding: 12px 24px;
-    font-size: 20px;
-    font-weight: bold;
-    min-width: 150px;
+#photo-heading {
+    font-family: segoe script;
 }
 
 #hero1 {
@@ -53,6 +47,7 @@ body {
     justify-content: center;
     align-items: center;
     opacity: 0.9;
+    position: relative;
 }
 
 #hero1 .hero-content {
@@ -66,6 +61,7 @@ body {
     margin-bottom: 12px;
     text-align: right;
     font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #hero1 h1 {
@@ -75,17 +71,15 @@ body {
 }
 
 #hero1 a {
-    font-size: 26px;
-    display: inline-block;
-    background-color: rgb(255, 255, 255);
-    color: rgb(176, 104, 114);
+    font-size: 12px;
+    margin-bottom: 12px;
+    text-align: top-right;
     font-weight: bold;
+    color: rgb(30, 25, 25);
+    position: absolute;
+    top: 100px;
+    right: 30px;
     text-decoration: none;
-    padding: 30px;
-    margin-top: 36px;
-    margin-right: 12px;
-    margin-left: 12px;
-    border-radius: 6px;
 }
 
 #hero-2 {
@@ -109,7 +103,7 @@ body {
     margin-bottom: 6px;
     text-align: center;
     font-weight: bold;
-    color: rgb(255, 184, 173);
+    color: rgb(236, 182, 182);
 }
 
 #hero-2 h2 {
@@ -172,6 +166,7 @@ body {
 
 h1 {
     color: #333;
+    font-family: segoe script;
 }
 
 .gallery {
@@ -207,4 +202,44 @@ h1 {
     background: lightblue;
     padding: 10px;
     border-radius: 5px;
+    max-width: 500px;
+    margin: 60px;
+    text-align: center;
+    margin-bottom: auto;
 }
+
+.special-headings p {
+    display: inline-block;
+    padding: 20px 20px;
+    margin: 90px;
+    background: #cbe3db;
+    border-radius: 6px;
+    max-width: 450px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: palatino linotype;
+}
+
+.story-box {
+    max-width: 1500px;
+    text-align: center;
+    font-size: 20px;
+    font-family: segoe script;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.hidden p {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hidden h4 {
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
